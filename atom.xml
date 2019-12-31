@@ -5,9 +5,9 @@
   <subtitle>Keeping Up With Dakardashians</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://peterforberg.github.io/"/>
   <updated>2019-12-29T02:16:25.650Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://peterforberg.github.io/</id>
   
   <author>
     <name>Peter Forberg &amp; Nicholas Earley</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>How Big is a Home?</title>
-    <link href="http://yoursite.com/2019/12/28/How-Big-is-a-Home/"/>
-    <id>http://yoursite.com/2019/12/28/How-Big-is-a-Home/</id>
+    <link href="https://peterforberg.github.io/2019/12/28/How-Big-is-a-Home/"/>
+    <id>https://peterforberg.github.io/2019/12/28/How-Big-is-a-Home/</id>
     <published>2019-12-29T02:09:02.000Z</published>
     <updated>2019-12-29T02:16:25.650Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Welcome!</title>
-    <link href="http://yoursite.com/2019/12/27/Welcome/"/>
-    <id>http://yoursite.com/2019/12/27/Welcome/</id>
+    <link href="https://peterforberg.github.io/2019/12/27/Welcome/"/>
+    <id>https://peterforberg.github.io/2019/12/27/Welcome/</id>
     <published>2019-12-27T08:37:35.000Z</published>
     <updated>2019-12-27T10:20:20.355Z</updated>
     
